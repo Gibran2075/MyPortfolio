@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/webfilm/static/css/main.c598c911.css",
+    "main.js": "/webfilm/static/js/main.a9d809b1.js",
+    "static/js/787.c210ecd6.chunk.js": "/webfilm/static/js/787.c210ecd6.chunk.js",
+    "static/media/spiderman.jpg": "/webfilm/static/media/spiderman.28b8e7a51f0c5af060fc.jpg",
+    "static/media/Strange.jpg": "/webfilm/static/media/Strange.956bbb433f432719e465.jpg",
+    "static/media/main.jpg": "/webfilm/static/media/main.0142d2a441b36861ab51.jpg",
+    "static/media/Us.jpg": "/webfilm/static/media/Us.ae650e295692eeaf16af.jpg",
+    "static/media/Transformer.jpg": "/webfilm/static/media/Transformer.5f81c756353a6f9c33fb.jpg",
+    "static/media/Uncharted.jpg": "/webfilm/static/media/Uncharted.52a13a6cb3100d076733.jpg",
+    "static/media/Shang-ci.jpg": "/webfilm/static/media/Shang-ci.61064b02519a58589c93.jpg",
+    "static/media/Dontbreathe.jpg": "/webfilm/static/media/Dontbreathe.d4267244b728a4474967.jpg",
+    "static/media/Batman.jpg": "/webfilm/static/media/Batman.35ff1d4562304b3850ed.jpg",
+    "static/media/Captainamerika.jpg": "/webfilm/static/media/Captainamerika.35549c21268f1b402207.jpg",
+    "static/media/Thor.jpg": "/webfilm/static/media/Thor.080241e24703ba96f9a7.jpg",
+    "static/media/X-men.jpg": "/webfilm/static/media/X-men.16ae87567349752f5810.jpg",
+    "static/media/Spiderman.jpg": "/webfilm/static/media/Spiderman.5c1cb9714315e62fb9e6.jpg",
+    "static/media/Antman.jpg": "/webfilm/static/media/Antman.a96e4804e4b4b4c48b09.jpg",
+    "static/media/Birdbox.jpg": "/webfilm/static/media/Birdbox.85a72abb47e5fcca3e96.jpg",
+    "static/media/logo.svg": "/webfilm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/webfilm/index.html",
+    "main.c598c911.css.map": "/webfilm/static/css/main.c598c911.css.map",
+    "main.a9d809b1.js.map": "/webfilm/static/js/main.a9d809b1.js.map",
+    "787.c210ecd6.chunk.js.map": "/webfilm/static/js/787.c210ecd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c598c911.css",
+    "static/js/main.a9d809b1.js"
+  ]
+}
